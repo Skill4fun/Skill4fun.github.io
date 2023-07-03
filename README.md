@@ -2,7 +2,7 @@
 # My Portfolio Page 2023
 ### About the project
 
-It's a simple portfolio page game app where you can view my projects and contact details.
+It's a simple portfolio page where you can view my projects and contact details.
 
 ## Used technology
 The App is built with **[React](https://reactjs.org/)** framework
@@ -17,7 +17,7 @@ The App is built with **[React](https://reactjs.org/)** framework
 <!-- CONFIGURATION -->
 ## Run the App
 
-#### In the "portfolio-2023" project directory, you can run:
+#### In the project root directory, you can run:
 ### `npm start`
 
 It runs the app in development mode.\
