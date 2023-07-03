@@ -1,0 +1,167 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  outline: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+:root {
+  --color-bg: #19181A;
+  --color-bg-variant: #47976081;
+  --color-primary: #CEBC81;
+  --color-primary-variant: #a16e8370;
+  --color-white: #fff;
+  --color-light: #B19F9E;
+
+  //// ==== Other color plalettes I tried ==== ////
+  // --color-bg: #112D32;
+  // --color-bg-variant: #254e58b6;
+  // --color-primary: #88BDBC;
+  // --color-primary-variant: #6e665888;
+  // --color-white: #fff;
+  // --color-light: #ffffffb0;
+
+  // --color-bg: #2C3531;
+  // --color-bg-variant: #116466;
+  // --color-primary: #D9B08C;
+  // --color-primary-variant: #FFCB9A;
+  // --color-white: #fff;
+  // --color-light: #D1E8E2;
+
+  // --color-bg: #01161e;
+  // --color-bg-variant: #598392;
+  // --color-primary: #aec3b0;
+  // --color-primary-variant: #1245595e;
+  // --color-white: #fff;
+  // --color-light: #eff6e09d;
+
+  // --color-bg: #1f1f38;
+  // --color-bg-variant: #2c2c6c;
+  // --color-primary: #4db5ff;
+  // --color-primary-variant: rgba(77, 181, 255, 0.4);
+  // --color-white: #fff;
+  // --color-light: rgba(255, 255, 255, 0.6);
+
+  --container-width-lg: 75%;
+  --container-width-md: 86%;
+  --container-width-sm: 90%;
+
+  --transition: all 400ms ease;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  font-family: 'Poppins', sans-serif, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue';
+  background: var(--color-bg);
+  color: var(--color-white);
+  line-height: 1.7;
+  background-image: url(../src/assets/bg-texture.png);
+}
+
+.container {
+  width: var(--container-width-lg);
+  margin: 0 auto;
+}
+
+h1 h2,
+h3,
+h4,
+h5 {
+  font-weight: 500;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+section {
+  margin-top: 8rem;
+}
+
+section>h2,
+section>h5 {
+  text-align: center;
+  color: var(--color-light);
+}
+
+section>h2 {
+  color: var(--color-primary);
+  margin-bottom: 3rem;
+}
+
+.text-light {
+  color: var(--color-light);
+}
+
+a {
+  color: var(--color-primary);
+  transition: var(--transition);
+}
+
+a:hover {
+  color: var(--color-white)
+}
+
+.btn {
+  width: max-content;
+  display: inline-block;
+  color: var(--color-primary);
+  padding: 0.75rem 1.2rem;
+  border-radius: 0.4rem;
+  cursor: pointer;
+  border: 1px solid var(--color-primary);
+  transition: var(--transition);
+}
+
+.btn:hover {
+  background: var(--color-white);
+  color: var(--color-bg);
+  border-color: transparent;
+}
+
+.btn-primary {
+  background: var(--color-primary);
+  color: var(--color-bg);
+}
+
+img {
+  display: block;
+  width: 100%;
+  object-fit: cover;
+}
+
+///// ==== MEDIA QUERIES ==== ////
+// ---- Medium devices (Tablets) ----
+@media screen and (max-width: 1024px) {
+  .container {
+    width: var(--container-width-md);
+  }
+
+  section {
+    margin-top: 6rem;
+  }
+}
+
+// ---- Small devices (Phones) ----
+@media screen and (max-width: 600px) {
+  .container {
+    width: var(--container-width-sm);
+  }
+
+  section>h2 {
+    margin-bottom: 2rem;
+  }
+}
