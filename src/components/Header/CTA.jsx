@@ -1,5 +1,5 @@
 import React from 'react';
-import CV from '../../assets/Gergely_Almasi_CV_ENG_2023-Web-small.pdf';
+import CV from '../../assets/Gergely_Almasi_CV_ENG_for-WEB.pdf';
 
 const CTA = () => {
   return (
