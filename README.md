@@ -22,8 +22,7 @@ The App is built with **[React](https://reactjs.org/)** framework
 
 It runs the app in development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
->Login using the username `gergo` and password `123` \
->Play the game! :)
+
 
 ## Deployment
 
