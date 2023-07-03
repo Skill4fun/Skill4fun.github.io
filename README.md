@@ -1,5 +1,5 @@
 <!-- ABOUT THE PROJECT -->
-# My Portfoliio Page 2023
+# My Portfolio Page 2023
 ### About the project
 
 It's a simple portfolio page game app where you can view my projects and contact details.
