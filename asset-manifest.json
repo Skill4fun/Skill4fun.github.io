@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.80172e62.css",
+    "main.js": "/static/js/main.3de36390.js",
+    "static/js/787.755d6b54.chunk.js": "/static/js/787.755d6b54.chunk.js",
+    "static/media/portfolio-inventory-browser.gif": "/static/media/portfolio-inventory-browser.cec2e2c86cbb7bf9344d.gif",
+    "static/media/me-about-small.png": "/static/media/me-about-small.1d4a3f7840f1d99a5f31.png",
+    "static/media/Gergely_Almasi_CV_ENG_2023-Web-small.pdf": "/static/media/Gergely_Almasi_CV_ENG_2023-Web-small.9615f41652a4a4a3cd3f.pdf",
+    "static/media/me-header_transparent_color_small.png": "/static/media/me-header_transparent_color_small.de4a9644a83951942dbe.png",
+    "static/media/portfolio-my-portfolio.png": "/static/media/portfolio-my-portfolio.b332593b69291a97ed89.png",
+    "static/media/portfolio-tictactoe.png": "/static/media/portfolio-tictactoe.4bf14bab19bc45da8482.png",
+    "index.html": "/index.html",
+    "main.80172e62.css.map": "/static/css/main.80172e62.css.map",
+    "main.3de36390.js.map": "/static/js/main.3de36390.js.map",
+    "787.755d6b54.chunk.js.map": "/static/js/787.755d6b54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80172e62.css",
+    "static/js/main.3de36390.js"
+  ]
+}
