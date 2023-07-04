@@ -68,6 +68,14 @@
 
   .experience__container>div {
     width: 100%;
-    padding: 2rem 1rem;
+    padding: 2rem 0rem;
+  }
+
+  .experience__content {
+    padding: 1.5rem;
+  }
+
+  .experience__details-icon {
+    margin-left: 0rem;
   }
 }
