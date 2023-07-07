@@ -15,7 +15,7 @@ export const portfolioData = [
     image: IMG2,
     title: 'Inventory Browser Application',
     github: 'https://github.com/Skill4fun/Inventory-Browser',
-    demo: 'https://github.com/Skill4fun/Inventory-Browser'
+    demo: 'https://inventory-browser.web.app/'
   },
   {
     id: 3,
