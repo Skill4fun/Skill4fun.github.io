@@ -47,7 +47,7 @@ const About = () => {
           <p>
             During the Fullstack training, we gained significant experience in CI/CD development (GitHub, JIRA) in a "simulated working environment", in a team of 5 people, where we developed a ticketing application together, following an agile SCRUM methodology.
             <br />
-            In the development of my project work "Inventory Browser Application" detailed below, I was mostly immersed in MERN technologies.
+            In the development of my project work "Inventory Browser Application" detailed below, I was mostly immersed in MERN technologies and RESTful API.
             <br />
             I wrote the tests in JEST and the api-documentation using OpenAPI/Swagger.
           </p>
