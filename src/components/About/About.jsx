@@ -40,7 +40,7 @@ const About = () => {
           </div>
 
           <p>
-            As a career changer, after 12 years of trade/sales, I headed towards IT, I envision my future in this sector.
+            To broaden my horizons, after 12 years in retail/sales, I delved into IT in 2022, adapting to the technological evolution that is so typical of the market.
             <br />
             Accordingly, I obtained a Frontend and then a Fullstack Developer qualification at the EU-funded intensive programming course of the "GINOP-6.2.8-20 Újratervezés Program".
           </p>
@@ -52,7 +52,7 @@ const About = () => {
             I wrote the tests in JEST and the api-documentation using OpenAPI/Swagger.
           </p>
           <p>
-            I am currently looking for opportunities as a Frontend and Fullstack developer, primarily using the mentioned stack, but I am also happy to learn new technologies.
+            Currently, I am seeking opportunities in Sales/Business Development Management, programming/development support, and other management roles where I can leverage my sales/business development background alongside my IT skills. I have 10+ years of management experience.
             <br /> I am planning to learn e.g.: React Native, Vue, Next, Angular, C#.
           </p>
 
